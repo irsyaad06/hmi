@@ -1,10 +1,9 @@
 <script setup>
 // Jika Anda menggunakan Vue Router, Anda bisa mengganti ini dengan <RouterView />
-import Home from './components/Home.vue'
+import Home from './views/HomeView.vue'
 </script>
 
 <template>
-  <!-- Menghapus <header>, logo, dan <nav> bawaan Vue agar presentasi bisa Full Screen -->
   <main class="app-container">
     <Home />
   </main>
