@@ -5,7 +5,7 @@
     <div
       class="inline-block px-4 py-1 mb-6 border border-emerald-500/50 rounded-full bg-emerald-900/20 text-emerald-300 font-mono text-sm tracking-[0.2em] animate-fade-in-up"
     >
-      GRAND DESIGN 2025-2026
+      GRAND DESIGN 25-26
     </div>
     <h1
       class="text-6xl md:text-8xl font-black text-white mb-2 tracking-tighter leading-tight animate-fade-in-up delay-100"

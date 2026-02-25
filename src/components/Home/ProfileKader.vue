@@ -42,12 +42,12 @@ import { Users, BookOpen, TrendingUp } from 'lucide-vue-next'
       >
         <!-- Lingkaran Animasi Belakang -->
         <!-- Catatan: animasi spin_10s_linear_infinite adalah bawaan arbitrary values Tailwind -->
-        <div
+        <!-- <div
           class="absolute w-[120%] h-[120%] border border-emerald-500/20 rounded-full animate-[spin_10s_linear_infinite]"
         ></div>
         <div
           class="absolute w-[110%] h-[110%] border-2 border-dashed border-emerald-500/30 rounded-full"
-        ></div>
+        ></div> -->
 
         <!-- Frame Foto Utama -->
         <div

@@ -11,7 +11,7 @@ import { Target, Hexagon } from 'lucide-vue-next'
       <div class="justify-start">
         <div class="absolute -inset-4 bg-emerald-500/20 blur-xl rounded-full"></div>
         <Target
-          class="text-emerald-400 relative z-10 w-40 h-40 md:w-56 md:h-56 lg:w-64 lg:h-64"
+          class="text-emerald-400 relative z-10 w-32 h-32 md:w-56 md:h-56 lg:w-64 lg:h-64"
           :strokeWidth="0.5"
         />
       </div>
