@@ -47,7 +47,7 @@ onMounted(() => {
     <header></header>
     <main>
       <!-- Wrapper untuk menggabungkan semua section komponen -->
-      <div class="relative z-10 flex flex-col px:12 md:px-40">
+      <div class="relative z-10 flex flex-col px-12 md:px-40">
         <Cover />
         <ProfileKader />
         <Visi />
